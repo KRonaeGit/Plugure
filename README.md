@@ -1,7 +1,7 @@
 # Plugure
 Plugure, The best library to develop Minecraft Bukkit plugins.
 
-### Easy
+## Easy
 - Create Component instance easy with String format like: &eYellow &cRed &rReset &lBold >> to color, effect applied.
 - Read YAML files like config.yml, etc and write with Plugure class.
 - Compile and format your String like: Hi, %player% -> Hi PlayerNick  with Formatter, Compiler and Parser class.
@@ -35,7 +35,7 @@ Plugure, The best library to develop Minecraft Bukkit plugins.
 ➖ Removes related to use() static method from Formatter, Messenger and Compiler.
 
 ## All versions
-- [Plugure 0.1.0 ALPHA](/blob/Plugure-0.1.0.jar)
-- [Plugure 0.9.9 ALPHA](/blob/Plugure-0.9.9.jar)
-- [Plugure 1.0.0 ALPHA](/blob/Plugure-1.0.0.jar)
-- [Plugure 1.0.1 ALPHA](/blob/Plugure-1.0.1.jar)
+- [Plugure 0.1.0 ALPHA](/Plugure-0.1.0.jar)
+- [Plugure 0.9.9 ALPHA](/Plugure-0.9.9.jar)
+- [Plugure 1.0.0 ALPHA](/Plugure-1.0.0.jar)
+- [Plugure 1.0.1 ALPHA](/Plugure-1.0.1.jar)
