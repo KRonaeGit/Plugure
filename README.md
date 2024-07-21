@@ -31,16 +31,16 @@ Plugure, The best library to develop Minecraft Bukkit plugins.
 (I am working to create repository.., But now You cannot use pom.xml yet)
 
 # Plugure 1.0.1
-✔️ More easier grammar
-✔️ More lot of functions
-✔️ More Object Oriented Programmed codes
-➕ Command support
-➕ TabTree support
-➕ Event listener support
-➕ Mapper class
-➕ Supports custom grammer/functions
-➕ Supports custom plugins with abstract class, PlugurePlugin
-➖ Removes related to use() static method from Formatter, Messenger and Compiler.
+- ✔️ More easier grammar
+- ✔️ More lot of functions
+- ✔️ More Object Oriented Programmed codes
+- ➕ Command support
+- ➕ TabTree support
+- ➕ Event listener support
+- ➕ Mapper class
+- ➕ Supports custom grammer/functions
+- ➕ Supports custom plugins with abstract class, PlugurePlugin
+- ➖ Removes related to use() static method from Formatter, Messenger and Compiler.
 
 ## All versions
 - [Plugure 0.1.0 ALPHA](/Plugure-0.1.0.jar) << NOT EXISTS
