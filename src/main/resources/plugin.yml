@@ -1,0 +1,5 @@
+name: Plugure
+version: 1.0.0
+main: kronaegit.plugure.PlugureLoader
+
+load: STARTUP
