@@ -21,6 +21,14 @@ Plugure, The best library to develop Minecraft Bukkit plugins.
 - Create custom function to compile.
 - Create auto translatable Component with Components class.
 
+# Usage
+1. Download latest `Plugure-#####.jar` file at: [here](../../releases/latest)
+2. Put the `.jar` file into your `plugins` directory.
+3. Add dependency of the `.jar` file.
+4. Reload Maven/Gradle.
+5. And code!
+
+(I am working to create repository.., But now You cannot use pom.xml yet)
 
 # Plugure 1.0.1
 ✔️ More easier grammar
@@ -35,7 +43,7 @@ Plugure, The best library to develop Minecraft Bukkit plugins.
 ➖ Removes related to use() static method from Formatter, Messenger and Compiler.
 
 ## All versions
-- [Plugure 0.1.0 ALPHA](/Plugure-0.1.0.jar)
+- [Plugure 0.1.0 ALPHA](/Plugure-0.1.0.jar) << NOT EXISTS
 - [Plugure 0.9.9 ALPHA](/Plugure-0.9.9.jar)
 - [Plugure 1.0.0 ALPHA](/Plugure-1.0.0.jar)
 - [Plugure 1.0.1 ALPHA](/Plugure-1.0.1.jar)
