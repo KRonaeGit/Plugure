@@ -24,9 +24,17 @@ Plugure, The best library to develop Minecraft Bukkit plugins.
 # Usage
 1. Download latest `Plugure-#####.jar` file at: [here](../../releases/latest)
 2. Put the `.jar` file into your `plugins` directory.
-3. Add dependency of the `.jar` file.
-4. Reload Maven/Gradle.
-5. And code!
+3. Add dependency of the `.jar` file or add code below in your `pom.xml` -> `dependencies`
+```xml
+<dependency>
+  <groupId>io.github.kronaegit</groupId>
+  <artifactId>plugure</artifactId>
+  <version>1.0.1</version>
+</dependency>
+```
+5. Reload Maven/Gradle.
+6. And code!
+
 
 (I am working to create repository.., But now You cannot use pom.xml yet)
 
